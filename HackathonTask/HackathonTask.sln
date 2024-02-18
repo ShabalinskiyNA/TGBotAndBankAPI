@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackathonTask", "HackathonTask.csproj", "{9AF9ED1A-765D-4506-8EAA-7CAE2E6E7189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TgBot", "..\TgBot\TgBot.csproj", "{18581690-3A3F-4402-9287-1AD6794110FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF9ED1A-765D-4506-8EAA-7CAE2E6E7189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF9ED1A-765D-4506-8EAA-7CAE2E6E7189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF9ED1A-765D-4506-8EAA-7CAE2E6E7189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF9ED1A-765D-4506-8EAA-7CAE2E6E7189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18581690-3A3F-4402-9287-1AD6794110FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18581690-3A3F-4402-9287-1AD6794110FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18581690-3A3F-4402-9287-1AD6794110FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18581690-3A3F-4402-9287-1AD6794110FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16F90D10-9379-4A53-B187-6D5B2CCB322E}
+	EndGlobalSection
+EndGlobal
